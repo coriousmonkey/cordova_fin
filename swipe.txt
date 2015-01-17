@@ -1,0 +1,32 @@
+<div data-role="collapsible" data-collapsed="false" >
+          <h3>Lap Fc Penjualan</h3>
+              <ul class="ui-listview ui-group-theme-c" data-role="listview" data-theme="c" id="link1">
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rdivisi.html');">Fc Divisi</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rsales.html')">Fc Sales</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rcabang.html')">Fc Cabang</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 3</a></li>
+              </ul>
+          
+        </div>
+        <div data-role="collapsible">
+          <h3>Section 2</h3>
+        
+          <ul class="ui-listview ui-group-theme-c" data-role="listview" data-theme="c" id="link1">
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">link 0</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 1</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 2</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 3</a></li>
+              </ul>
+        
+        </div>
+        <div data-role="collapsible">
+          <h3>Section 3</h3>
+          
+          <ul class="ui-listview ui-group-theme-c" data-role="listview" data-theme="c" id="link1">
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('');">Link 0</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 1</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 2</a></li>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 3</a></li>
+              </ul>
+        
+        </div>
