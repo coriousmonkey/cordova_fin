@@ -57,7 +57,7 @@ dd { font-size: 1.25em; margin: 1em 0 0; padding-bottom: 1em; border-bottom: 1px
 
 </head>
 <body >
-<div data-url="demo-page" data-role="page" id="demo-page" style="overflow: hidden;" data-theme="e">
+<div data-url="demo-page" data-role="page" id="demo-page" style="overflow: auto;" data-theme="e">
     
     <div data-role="header" data-theme="e" data-position="fixed">
         <h1>Laporan Forecast Persales</h1>
@@ -65,24 +65,29 @@ dd { font-size: 1.25em; margin: 1em 0 0; padding-bottom: 1em; border-bottom: 1px
     </div><!-- /header -->
     
     <div data-role="content">
-            <div class="ui-grid-b ui-responsive" id="option-divisi">
-              <div class="ui-block-a">
-              </div>
-              <div class="ui-block-b">
-                <label for="Tahun">Tahun :</label>
-                <input type="text" value="2015" id="Tahun" />
-                <label for="divisi">Divisi :</label>
-                <select id="divisi">
-                    <option value="MR">Marine</option>
-                    <option value="CB">Cabang</option>
-                    <option value="KT">Konter</option>
-                    <option value="LK">Luar Kota</option>
-                    <option value="all" selected="selected">All</option>
-                </select>
+            <div class="ui-grid-c ui-responsive" id="option-divisi">
+                  <div class="ui-block-a"></div>
+                  <div class="ui-block-b">
+              
+                        <label for="Tahun">Tahun :</label>
+                        <input type="text" value="2015" id="Tahun" />
+                
+                </div>
+                <div class="ui-block-c">
+                
+                    <label for="divisi">Divisi :</label>
+                    <select id="divisi">
+                        <option value="MR">Marine</option>
+                        <option value="CB">Cabang</option>
+                        <option value="KT">Konter</option>
+                        <option value="LK">Luar Kota</option>
+                        <option value="all" selected="selected">All</option>
+                    </select>
                 
                 <button id="loaddata" data-role="button" data-mini="true" data-inline="true" data-iconpos="right" data-theme="e">Load Table</button>
+              
               </div>
-              <div class="ui-block-c">
+              <div class="ui-block-d">
               </div>
             </div>
     
