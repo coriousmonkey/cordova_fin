@@ -4,8 +4,9 @@
                 <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rdivisi.html');">Fc Divisi</a></li>
                 <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rsales.html')">Fc Sales</a></li>
                 <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('rcabang.html')">Fc Cabang</a></li>
-                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('')">Link 3</a></li>
-              </ul>
+                <li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('zrkategory.html')">Fc Kategory</a></li>
+        	<li class="ui-first-child ui-last-child"><a class="ui-btn ui-btn-icon-right ui-icon-carat-r" onclick="window.location.replace('zryc.html')">Fc Yuchai</a></li>      
+	</ul>
           
         </div>
         <div data-role="collapsible">
