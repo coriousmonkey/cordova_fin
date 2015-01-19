@@ -5,7 +5,7 @@ $(document).on("pagebeforeshow","#demo-page",function(){ // When entering pagetw
         $("#menu").html(data);
         $('#menu').collapsibleset('refresh');
         $('ul').listview( "refresh" );
-    }, 'text'); 
+    }, 'text');
 });
 
 //data-collapsed='false'
