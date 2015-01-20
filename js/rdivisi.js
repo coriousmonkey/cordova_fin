@@ -21,6 +21,10 @@ $(document).ready(function(){
         }
     });
     
+   // $('#headere').click(function(){
+   //    alert($('#headere').html()); 
+   // });
+    
     document.addEventListener("backbutton", function(e){
            $( "#left-panel" ).panel( "open" );
     }, false);
